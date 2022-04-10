@@ -1,5 +1,5 @@
 <?php
-
+//test
 function convertToSecs($str) { 
     $exp = explode(',',$str);
     $total_uptime = 0;
